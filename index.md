@@ -25,7 +25,7 @@ R workshops hosted by the Montana State University Library, Department of Mathem
 <h3 id="location">Location</h3>
 
 <p id="where">
-TBD
+Montana State University - Wilson 1-133
 </p>
 
 
